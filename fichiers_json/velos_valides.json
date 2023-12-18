@@ -1,0 +1,79 @@
+[
+    {
+        "numeroSerie": 11290000,
+        "model": "Model1",
+        "marque": "Marque1",
+        "pneuAvant": {
+            "marque": "Pneu",
+            "largeur": 25,
+            "contientChambre": true
+        },
+        "pneuArriere": {
+            "marque": "Pneu",
+            "largeur": 25,
+            "contientChambre": true
+        },
+        "batterie": {
+            "puissance": 10,
+            "marque": "Batterie1"
+        }
+    },
+    {
+        "numeroSerie": 2989798,
+        "model": "Model2",
+        "marque": "Marque2",
+        "pneuAvant": {
+            "marque": "Pneu",
+            "largeur": 29,
+            "contientChambre": false
+        },
+        "pneuArriere": {
+            "marque": "Pneu",
+            "largeur": 29,
+            "contientChambre": false
+        },
+        "batterie": {
+            "puissance": 20,
+            "marque": "Batterie2"
+        }
+    },
+    {
+        "numeroSerie": 332211,
+        "model": "Model3",
+        "marque": "Marque3",
+        "pneuAvant": {
+            "marque": "Pneu",
+            "largeur": 26,
+            "contientChambre": true
+        },
+        "pneuArriere": {
+            "marque": "Pneu",
+            "largeur": 26,
+            "contientChambre": true
+        },
+        "batterie": {
+            "puissance": 15,
+            "marque": "Batterie3"
+        }
+    },
+    {
+        "numeroSerie": 889977,
+        "model": "Model4",
+        "marque": "Marque4",
+        "pneuAvant": {
+            "marque": "Pneu",
+            "largeur": 27,
+            "contientChambre": false
+        },
+        "pneuArriere": {
+            "marque": "Pneu",
+            "largeur": 27,
+            "contientChambre": false
+        },
+        "batterie": {
+            "puissance": 18,
+            "marque": "Batterie4"
+        }
+    }
+]
+

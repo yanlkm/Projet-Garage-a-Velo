@@ -1,0 +1,60 @@
+[
+    {
+        "numeroSerie": 1,
+        "model": "Model1",
+        "marque": "Marque1",
+        "pneuAvant": {
+            "marque": "PneuAvant1",
+            "largeur": 25,
+            "contientChambre": true
+        },
+        "pneuArriere": {
+            "marque": "PneuArriere1",
+            "largeur": 25,
+            "contientChambre": true
+        },
+        "batterie": {
+            "puissance": 100,
+            "marque": "Batterie1"
+        }
+    },
+    {
+        "numeroSerie": 2,
+        "model": "Model2",
+        "marque": "Marque2",
+        "pneuAvant": {
+            "marque": "PneuAvant2",
+            "largeur": 30,
+            "contientChambre": false
+        },
+        "pneuArriere": {
+            "marque": "PneuArriere2",
+            "largeur": 30,
+            "contientChambre": false
+        },
+        "batterie": {
+            "puissance": 200,
+            "marque": "Batterie2"
+        }
+    },
+    {
+        "numeroSerie": 2,    // <-- Numéro de série en double
+        "model": "Model3",
+        "marque": "Marque3",
+        "pneuAvant": {
+            "marque": "PneuAvant3",
+            "largeur": 35,
+            "contientChambre": true
+        },
+        "pneuArriere": {
+            "marque": "PneuArriere3",
+            "largeur": 35,
+            "contientChambre": true
+        },
+        "batterie": {
+            "puissance": 300,
+            "marque": "Batterie3"
+        }
+    }
+]
+
